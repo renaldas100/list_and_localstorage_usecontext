@@ -9,9 +9,7 @@ Užduoties tipas (pavyzdžiui: "Skubus", "Rutininis", "Neskubus", "Ypač skubus"
   Sukurtojoje aplikacijoje paspaudus mygtuką "pridėti" užduotis yra pridedama į sąrašą. Visos išsaugotos užduotys yra atvaizduojamos sąrašu puslapyje ir taip pat yra galimybė pašalinti užduotis iš sąrašo. Užduotys yra išsaugomos į localstorage. 
 
 ## Printscreen
-![list_and_localstorage](https://user-images.githubusercontent.com/117721797/214674110-c20c8271-82eb-4324-ad00-9ec90890aa43.jpg)
-
-
+![list_and_localstorage_usecontext](https://user-images.githubusercontent.com/117721797/214678474-0e582ada-5f34-4b74-ada1-c19571d8737a.jpg)
 
 
 
@@ -41,7 +39,7 @@ Užduoties tipas (pavyzdžiui: "Skubus", "Rutininis", "Neskubus", "Ypač skubus"
   Sukurtojoje aplikacijoje paspaudus mygtuką "pridėti" užduotis yra pridedama į sąrašą. Visos išsaugotos užduotys yra atvaizduojamos sąrašu puslapyje ir taip pat yra galimybė pašalinti užduotis iš sąrašo. Užduotys yra išsaugomos į localstorage. 
 
 ## Printscreen
-![list_and_localstorage](https://user-images.githubusercontent.com/117721797/214674110-c20c8271-82eb-4324-ad00-9ec90890aa43.jpg)
+![list_and_localstorage_usecontext](https://user-images.githubusercontent.com/117721797/214678474-0e582ada-5f34-4b74-ada1-c19571d8737a.jpg)
 
 
 
