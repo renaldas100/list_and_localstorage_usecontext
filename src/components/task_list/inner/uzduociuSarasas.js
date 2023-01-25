@@ -18,22 +18,27 @@ uzduotysCtx.products.forEach((uzduotis, index)=>{
 })
 
     let uzduociuSarasasFiltruotas=[];
-    for (let i = 0; i < uzduociuSarasas.length; i++) {
-        if (uzduociuSarasas[i].props.uzduotis.tipas == pasirinktasTipas) {
-            uzduociuSarasasFiltruotas.push(uzduociuSarasas[i])
-        }
-        if (pasirinktasTipas == "Visi tipai") {
-            uzduociuSarasasFiltruotas.push(uzduociuSarasas[i])
-        }
+
+    // for (let i = 0; i < uzduociuSarasas.length; i++) {
+    //     if (uzduociuSarasas[i].props.uzduotis.tipas == pasirinktasTipas) {
+    //         uzduociuSarasasFiltruotas.push(uzduociuSarasas[i])
+    //     }
+    //     if (pasirinktasTipas == "Visi tipai") {
+    //         uzduociuSarasasFiltruotas.push(uzduociuSarasas[i])
+    //     }
+    // }
+
+    // console.log
+
+    uzduociuSarasas.forEach((item)=>{
+
+    if (item.props.uzduotis.tipas == pasirinktasTipas) {
+        uzduociuSarasasFiltruotas.push(item)
     }
-
-    // uzduotysCtx.products.forEach((sarasas, index)=>{
-    //     uzduociuSarasasFiltruotas.push(
-    //         sarasas=uzduociuSarasas[index].props.uzduotis.tipas == pasirinktasTipas
-    //     )
-    // });
-
-
+    if (pasirinktasTipas == "Visi tipai") {
+        uzduociuSarasasFiltruotas.push(item)
+    }
+    });
 
 
     const onTipoPasirinkimas=(event)=>{
