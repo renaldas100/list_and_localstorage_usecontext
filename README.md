@@ -1,70 +1,74 @@
-# Getting Started with Create React App
+# List and localstorage
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+Naudotos technologojos REACT + BOOTSTRAP
 
-## Available Scripts
+Sukurta aplikacija kurioje talpinamas užduočių sąrašas (task list'as). Aplikacijoje yra forma į kurią įvedame užduotis kurias turėsite atlikti:
+Užduoties tekstas (pavyzdžiui: "Išnešti šiukšles", "Išvaly kambarius");
+Užduoties tipas (pavyzdžiui: "Skubus", "Rutininis", "Neskubus", "Ypač skubus") - šis pasirinkimas yra <select> tipas.
+  
+  Sukurtojoje aplikacijoje paspaudus mygtuką "pridėti" užduotis yra pridedama į sąrašą. Visos išsaugotos užduotys yra atvaizduojamos sąrašu puslapyje ir taip pat yra galimybė pašalinti užduotis iš sąrašo. Užduotys yra išsaugomos į localstorage. 
 
-In the project directory, you can run:
+## Printscreen
+![list_and_localstorage](https://user-images.githubusercontent.com/117721797/214674110-c20c8271-82eb-4324-ad00-9ec90890aa43.jpg)
 
-### `npm start`
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `npm test`
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
-### `npm run build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+# List and localstorage
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+Naudotos technologojos REACT + BOOTSTRAP
 
-### Making a Progressive Web App
+Sukurta aplikacija kurioje talpinamas užduočių sąrašas (task list'as). Aplikacijoje yra forma į kurią įvedame užduotis kurias turėsite atlikti:
+Užduoties tekstas (pavyzdžiui: "Išnešti šiukšles", "Išvaly kambarius");
+Užduoties tipas (pavyzdžiui: "Skubus", "Rutininis", "Neskubus", "Ypač skubus") - šis pasirinkimas yra <select> tipas.
+  
+  Sukurtojoje aplikacijoje paspaudus mygtuką "pridėti" užduotis yra pridedama į sąrašą. Visos išsaugotos užduotys yra atvaizduojamos sąrašu puslapyje ir taip pat yra galimybė pašalinti užduotis iš sąrašo. Užduotys yra išsaugomos į localstorage. 
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## Printscreen
+![list_and_localstorage](https://user-images.githubusercontent.com/117721797/214674110-c20c8271-82eb-4324-ad00-9ec90890aa43.jpg)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
 
-### `npm run build` fails to minify
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+
+
+
+
+
+
+
+
+
+
+
+  
+  
+  
+  
+  
+  
+  
+  
+  
+   
+
